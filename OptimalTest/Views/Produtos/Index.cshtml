@@ -1,0 +1,63 @@
+﻿@model IEnumerable<Domain.Produto>
+
+@{
+    ViewData["Title"] = "Lista de Produtos";
+}
+
+<h1>Lista de Produtos</h1>
+
+<div class="busca">
+   <input type="search" id="pesquisa"><button type="button" onclick="filtrar()">Filtrar</button>
+</div>
+
+<p>
+    <a asp-action="Create">Cadastrar novo Produto</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Código
+            </th>
+            <th>
+                Descrição
+            </th>
+            <th>
+                Tipo do Produto
+            </th>           
+            <th>
+                Quantidade
+            </th>
+            <th>
+                Preço
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.codigo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.descricao)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TipoProduto.descricao)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.quantidade)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.preco)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.id">Editar</a> |
+                <a asp-action="Details" asp-route-id="@item.id">Detalhes</a> |
+                <a asp-action="Delete" asp-route-id="@item.id">Deletar</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

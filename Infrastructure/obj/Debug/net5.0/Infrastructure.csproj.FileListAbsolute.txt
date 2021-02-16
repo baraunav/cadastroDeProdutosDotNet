@@ -1,0 +1,15 @@
+C:\Users\Barauna\Desktop\CURSOS\C#\repos\ProvaOptimal\Infrastructure\bin\Debug\net5.0\Infrastructure.deps.json
+C:\Users\Barauna\Desktop\CURSOS\C#\repos\ProvaOptimal\Infrastructure\bin\Debug\net5.0\Infrastructure.dll
+C:\Users\Barauna\Desktop\CURSOS\C#\repos\ProvaOptimal\Infrastructure\bin\Debug\net5.0\ref\Infrastructure.dll
+C:\Users\Barauna\Desktop\CURSOS\C#\repos\ProvaOptimal\Infrastructure\bin\Debug\net5.0\Infrastructure.pdb
+C:\Users\Barauna\Desktop\CURSOS\C#\repos\ProvaOptimal\Infrastructure\bin\Debug\net5.0\Domain.dll
+C:\Users\Barauna\Desktop\CURSOS\C#\repos\ProvaOptimal\Infrastructure\bin\Debug\net5.0\Domain.pdb
+C:\Users\Barauna\Desktop\CURSOS\C#\repos\ProvaOptimal\Infrastructure\obj\Debug\net5.0\Infrastructure.csprojAssemblyReference.cache
+C:\Users\Barauna\Desktop\CURSOS\C#\repos\ProvaOptimal\Infrastructure\obj\Debug\net5.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Barauna\Desktop\CURSOS\C#\repos\ProvaOptimal\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Barauna\Desktop\CURSOS\C#\repos\ProvaOptimal\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfo.cs
+C:\Users\Barauna\Desktop\CURSOS\C#\repos\ProvaOptimal\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Barauna\Desktop\CURSOS\C#\repos\ProvaOptimal\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CopyComplete
+C:\Users\Barauna\Desktop\CURSOS\C#\repos\ProvaOptimal\Infrastructure\obj\Debug\net5.0\Infrastructure.dll
+C:\Users\Barauna\Desktop\CURSOS\C#\repos\ProvaOptimal\Infrastructure\obj\Debug\net5.0\ref\Infrastructure.dll
+C:\Users\Barauna\Desktop\CURSOS\C#\repos\ProvaOptimal\Infrastructure\obj\Debug\net5.0\Infrastructure.pdb
